@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guy Even-Chen</h1>
-<h3 align="center">A passionate frontend developer & Cyber Security Enthusiast </h3>
+<h3 align="center">A passionate frontend and Backend developer & Cyber Security Enthusiast </h3>
 
 <p align="center"> <img src=https://media3.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=6c09b952eecsg79z39nhntbdid3nmzuury909eynfnetu0ia&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="image" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Advanced full-stack development techniques and cybersecurity practices.**
 
-- 👯 I’m looking to collaborate on **Cybersecurity projects, particularly those involving scripting and Python development.**
+- 👯 I’m looking to collaborate on **Cybersecurity projects,building Web Applications and particularly those involving scripting and Web development.**
 
 - 🤝 I’m looking for help with **Enhancing my skills in advanced cybersecurity tools and methodologies and Full Stack Web Development**
 
