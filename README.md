@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Guy Even-Chen</h1>
-<h3 align="center">A passionate frontend and Backend developer & Cyber Security Enthusiast </h3>
+<h3 align="center">A passionate Frontend and Backend developer & Cyber Security Enthusiast </h3>
 
 <p align="center"> <img src=https://media3.giphy.com/media/wLNuW1tCKRiPmDV5Y4/200w.gif?cid=6c09b952eecsg79z39nhntbdid3nmzuury909eynfnetu0ia&ep=v1_gifs_search&rid=200w.gif&ct=g" alt="image" /> </p>
 
