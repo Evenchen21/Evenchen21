@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Enhancing my skills in advanced cybersecurity tools and methodologies and Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://evenchen21.github.io/FullStackProject-ss/](https://evenchen21.github.io/FullStackProject-ss/)
+- 👨‍💻 All of my projects are available at [https://evenchen21.github.io/FullStackProject-ss/](https://evenchen21.github.io/FullStackProject-ss/) And [https://github.com/Evenchen21/CyberSecurityProject-s]
 
 - 📫 How to reach me **Cybersec25@icloud.com**
 
