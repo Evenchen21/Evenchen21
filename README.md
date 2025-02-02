@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evenchen21&label=Profile%20views&color=0e75b6&style=flat" alt="evenchen21" /> </p>
 
-- 🔭 I’m currently working on [Developing full-stack web applications utilizing HTML, CSS, JavaScript, Node.js, React, Sass, and Python.](https://github.com/Evenchen21/FullStackProject-ss.git)
+- 🔭 I’m currently working on [Developing full-stack web applications utilizing HTML, CSS, JavaScript, Node.js, React, Sass, and Python.](https://github.com/Evenchen21/GitHub---Full-Stack-Web-Developer-Projects.git)
 
 - 🌱 I’m currently learning **Advanced full-stack development techniques and cybersecurity practices.**
 
