@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋
+<h1 align="center">👋
   I'm Guy Even-Chen</h1>
 <h3 align="center">A passionate Frontend and Backend Web Developer & Cyber Security Enthusiast </h3>
 
